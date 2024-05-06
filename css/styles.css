@@ -1,0 +1,31 @@
+body {
+    color: #2e2f42;
+}
+body {
+    font-family: Roboto, Raleway, sans-serif;
+}
+
+.web-color {
+    color: #4d5ae5;
+}
+
+.header-links {
+    color: #2E2F42;
+}
+
+.header-links:hover {
+    color: #404BBF;
+}
+
+.header-links:active {
+    text-decoration: underline;
+}
+
+.order-service-button {
+    background-color: #4d5ae5;
+}
+
+.order-service-button:hover
+.order-service-button:focus {
+    background-color: #404BBF;
+}
