@@ -1,28 +1,62 @@
 body {
     color: #2e2f42;
-}
-body {
     font-family: Roboto, Raleway, sans-serif;
 }
 
-.web-color {
+.logo-web-color {
     color: #4d5ae5;
+}
+
+.logo-studio-color {
+    color: #2e2f42;
+}
+
+p {
+font-size: 16px;
+line-height: 1.50;
+letter-spacing: 0.02em;
+}
+
+h2 {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+}
+
+h3 {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.20;
+letter-spacing: 0.02em;
 }
 
 .header-links {
     color: #2E2F42;
 }
 
-.header-links:hover {
-    color: #404BBF;
+.logo-font {
+    font-family: Raleway, sans-serif;
 }
 
-.header-links:active {
+.header-links:hover
+.header-links:active  {
+    color: #404BBF;
     text-decoration: underline;
 }
 
+/* .h1-color {
+    color: white;
+}
+
+.h1-back-color {
+    background-color: #2e2f42;
+} */
+
 .order-service-button {
     background-color: #4d5ae5;
+    color: white
 }
 
 .order-service-button:hover
